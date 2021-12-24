@@ -4,8 +4,22 @@ body{
     justify-content: space-around;
     align-items: center;
 }
+.logoCenter{
+    display: block;
+    width: 250px;
+    text-decoration: none;
+}
 .img{
- width: 12.5vmin;
-height: 50%;
-text-align: left;
+    width: 90px;
+    height: 70px;
+   
+ }
+.nameLogo{
+    display: inline;
+    width: 200px;
+    height: 40px;
+    text-align: left;
+}
+body, html{
+    height: 100%;
 }
